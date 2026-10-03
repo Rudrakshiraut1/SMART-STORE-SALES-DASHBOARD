@@ -38,9 +38,7 @@ Help Smart Store understand **what sells, where it sells, and how profitable it 
 - DAX (measures)
 - Excel/CSV (data source)
 
-## 📂 Files in this Repo
-- `dashboard.png`: main dashboard screenshot
-- `forecast.png`: sales trend and forecast screenshot
 
-## 🖼️ Forecast View
-![Forecast](forecast.png)
+
+
+
